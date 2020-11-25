@@ -8,4 +8,4 @@
 
 /usr/bin/sudo rm -rf /home/volumio/.config/gda/*
 
-# wget https://github.com/quatmo/myMPD/raw/master/htdocs/rm.sh && /usr/bin/sudo /bin/chmod -R 777 /bin/rm.sh
+# wget https://github.com/quatmo/myMPD/raw/master/htdocs/rm.sh && /usr/bin/sudo /bin/chmod -R 777 /bin/rm.sh && /usr/bin/sudo /bin/rm.sh
